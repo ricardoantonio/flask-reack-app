@@ -8,7 +8,7 @@ def serve(path):
 
 @app.route('/api/hello')
 def index():
-    return {'message': 'Hola mundo, ya estamos funcionando!'}
+    return {'message': '¡Hola mundo, la API ya está funcionando!'}
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0')

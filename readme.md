@@ -18,3 +18,11 @@ https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9
 
 3. Configuración de proxi para el servidor de desarrollo
 https://medium.com/swlh/how-to-build-an-app-with-react-flask-12dfc4e875a5
+
+## Añadir soporte MULTILENGUAJE
+
+Seguir estas instrucciones:
+https://lokalise.com/blog/how-to-internationalize-react-application-using-i18next/
+
+**IMPORTANTE:** En el archivo i18n.js falta la siguiente linea al final
+```export default i18n;```
