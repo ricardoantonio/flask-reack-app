@@ -21,6 +21,8 @@ https://medium.com/swlh/how-to-build-an-app-with-react-flask-12dfc4e875a5
 
 ## Añadir soporte MULTILENGUAJE
 
+Esta es la documentación oficial: https://react.i18next.com
+
 Seguir estas instrucciones:
 https://lokalise.com/blog/how-to-internationalize-react-application-using-i18next/
 
