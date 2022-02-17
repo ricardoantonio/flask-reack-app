@@ -17,8 +17,7 @@ https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9
     (El CORS no es necesario cuando se sigue el paso siguiente y las llamadas a la api no necesitan la ruta completa)
 
 3. Configuración de proxi para el servidor de desarrollo
-https://medium.com/swlh/how-to-build-an-app-with-react-flask-12dfc4e875a5
-
+https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project
 ## Añadir soporte MULTILENGUAJE
 
 Esta es la documentación oficial: https://react.i18next.com
